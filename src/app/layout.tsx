@@ -1,6 +1,6 @@
 import type { Metadata } from "next";
 import { Inter } from "next/font/google";
-import "./globals.css";
+import "./globals.css"; // 👈 这一行是网站变漂亮的关键！
 
 const inter = Inter({ subsets: ["latin"] });
 
