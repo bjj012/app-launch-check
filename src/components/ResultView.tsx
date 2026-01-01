@@ -1,3 +1,4 @@
+"use client";
 import React from 'react';
 import { AuditResult, Issue } from '../lib/types';
 
