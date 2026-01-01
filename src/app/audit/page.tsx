@@ -1,4 +1,4 @@
-import StepWizard from '@/components/StepWizard';
+import StepWizard from '../../components/StepWizard';
 
 export default function AuditPage() {
   return (
